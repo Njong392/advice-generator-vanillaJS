@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="/advice-generator-vanillaJS/build/output.css">
+  <title>Advice generator app</title>
+</head>
+<body class="bg-body flex justify-center items-center flex-col h-screen">
+  
+  <div class="relative p-4">
+    <div  class="flex items-center justify-center flex-col bg-cardColor w-80 m-auto rounded-lg py-12 px-6">
+    
+      <h6 class="text-tipColor mb-3 text-xs">Advice <span>#</span><span id="number">117</span></h6>
+
+      <blockquote class="text-textColor font-bold text-center" id="quote">
+        It is easy to sit up and take notice, what's difficult is getting up and taking action.
+      </blockquote>
+  
+      
+      <div class="mt-5">
+        <img src="/advice-generator-vanillaJS/images/pattern-divider-desktop.svg" alt="">
+      </div>
+  
+      <div class="rounded-full bg-tipColor flex content-center items-center p-2 absolute bottom-0 cursor-pointer" id="dice">
+        <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M20 0H4a4.005 4.005 0 0 0-4 4v16a4.005 4.005 0 0 0 4 4h16a4.005 4.005 0 0 0 4-4V4a4.005 4.005 0 0 0-4-4ZM7.5 18a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm0-9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm4.5 4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm4.5 4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm0-9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Z" fill="#202733"/></svg>
+      </div>
+      
+  
+        
+    </div>
+  </div>
+
+  <script src="index.js"></script>
+
+</body>
+</html>

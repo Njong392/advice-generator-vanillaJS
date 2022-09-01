@@ -1,0 +1,23 @@
+{
+  "name": "advice-generator-vanillajs",
+  "version": "1.0.0",
+  "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss-cli build -i ./src/input.css -o ./build/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Njong392/advice-generator-vanillaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Njong392/advice-generator-vanillaJS/issues"
+  },
+  "homepage": "https://github.com/Njong392/advice-generator-vanillaJS#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
