@@ -18,6 +18,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 The API used in this project was gotten from [here](https://api.adviceslip.com/). It allows you to fetch rabdom advice, advice by ID etc.
 
 ### Screenshot
+![Screenshot from 2022-09-01 17-30-14](https://user-images.githubusercontent.com/81039882/187974545-61bc0959-247d-4b07-9d1f-f449ef95dc6f.png)
 
 
 
