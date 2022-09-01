@@ -12,7 +12,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 The API used in this project was gotten from [here](https://api.adviceslip.com/). It allows you to fetch rabdom advice, advice by ID etc.
