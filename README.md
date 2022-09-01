@@ -25,7 +25,7 @@ The API used in this project was gotten from [here](https://api.adviceslip.com/)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: Not hosted yet :)
 
 ## My process
 I used async and await to grab data from the API. 
